@@ -1,4 +1,0 @@
-name: hypotrochoid
-version: '${project.version}'
-main: com.plugin.particles.particlesdesign.hypotrochoid
-api-version: 1.18
